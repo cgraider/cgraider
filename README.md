@@ -60,7 +60,7 @@
 
 ## 📖 Open Source & Research
 
-- **[LawAdviser](https://github.com/cgraider/LawAdviser_V2)** — legal-advisory assistant: OpenAI Assistants API + FastAPI + async SQLAlchemy/PostgreSQL, Dockerized
+- **[LawAdviser](https://github.com/cgraider/LawAdviser)** — legal-advisory assistant: OpenAI Assistants API + FastAPI + async SQLAlchemy/PostgreSQL, Dockerized
 - **[AMBTAR](https://github.com/cgraider/AMBTAR)** — simulation code for my paper *Adaptive Multi-Beltway Thermal-Aware Routing for 3D NoC Systems*, **The Journal of Supercomputing** ([DOI: 10.1007/s11227-025-07580-5](https://doi.org/10.1007/s11227-025-07580-5))
 - **[gem5-3d-noc-routing](https://github.com/cgraider/gem5-3d-noc-routing)** — gem5 fork for 3D NoC routing research (Garnet: DeepNR3D, XYZ, CAQR + RL pipeline)
 - **[code4pizza-astro](https://github.com/cgraider/code4pizza-astro)** — the code4pizza.com site: Astro SSG + React + Tailwind
