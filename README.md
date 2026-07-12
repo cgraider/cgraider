@@ -40,7 +40,7 @@
 
 | | |
 |---|---|
-| **🏢 Enterprise AI Virtual Assistant Platform** — multi-tenant RAG microservices with secure tenant isolation, configurable corporate knowledge bases, and session-aware memory via LangGraph. `Python` `FastAPI` `NestJS` `TypeScript` `ChromaDB` `Dify` | **✈️ AI Travel Assistant (Inspiral)** — agentic group-travel planner that joins chats, tracks multi-session user context in ChromaDB, and validates bookings against the Australian Tourism API (ATLAS, 10k+ venues). `LangGraph` `FastAPI` `Node.js` |
+| **🏢 Enterprise AI Virtual Assistant Platform** — multi-tenant RAG microservices with secure tenant isolation, configurable corporate knowledge bases, and session-aware memory via LangGraph. `Python` `FastAPI` `NestJS` `TypeScript` `ChromaDB` `Dify` | **⚖️ [LAW-ERP-MANAGEMENT](https://github.com/cgraider/LAW-ERP-MANAGEMENT)** — enterprise legal management platform for cases, contracts, notices, tasks, deadlines, and documents, with RBAC/ABAC access control and transactional audit logging. `NestJS` `Prisma` `PostgreSQL` `CASL` |
 | **🏗️ ByLaw AI** — construction-permit assistant validating form data against the Canadian National Building Code in real time with engineered RAG pipelines (80%+ retrieval accuracy). Cut consultation turnaround from weeks to hours. `LLM` `RAG` `React` `FastAPI` | **🏥 Heat Academy** — fullstack health-education LMS on AWS App Runner: course management, progress tracking, certifications, plus a Chrome extension syncing with legacy OSCAR EMR systems. `React` `Node.js` `PostgreSQL` |
 
 <p align="center">
@@ -61,7 +61,6 @@
 ## 📖 Open Source & Research
 
 - **[LawAdviser](https://github.com/cgraider/LawAdviser)** — legal-advisory assistant: OpenAI Assistants API + FastAPI + async SQLAlchemy/PostgreSQL, Dockerized
-- **[LAW-ERP-MANAGEMENT](https://github.com/cgraider/LAW-ERP-MANAGEMENT)** — enterprise legal management platform: NestJS + Prisma + PostgreSQL, RBAC/ABAC via CASL, transactional audit logging, E2E tested
 - **[AMBTAR](https://github.com/cgraider/AMBTAR)** — simulation code for my paper *Adaptive Multi-Beltway Thermal-Aware Routing for 3D NoC Systems*, **The Journal of Supercomputing** ([DOI: 10.1007/s11227-025-07580-5](https://doi.org/10.1007/s11227-025-07580-5))
 - **[gem5-3d-noc-routing](https://github.com/cgraider/gem5-3d-noc-routing)** — gem5 fork for 3D NoC routing research (Garnet: DeepNR3D, XYZ, CAQR + RL pipeline)
 - **[code4pizza-astro](https://github.com/cgraider/code4pizza-astro)** — the code4pizza.com site: Astro SSG + React + Tailwind
